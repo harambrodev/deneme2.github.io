@@ -1135,7 +1135,7 @@ hr {
 
 .theCard {
   position: relative;
-  min-width: 700px;
+  min-width: 200px;
   height: 21em;
   margin: 1em;
 }
